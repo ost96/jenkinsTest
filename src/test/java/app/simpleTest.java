@@ -7,7 +7,7 @@ public class simpleTest {
 
     @Test
     public void simpleTest(){
-        assertTrue(1 + 1 == 3);
+        assertTrue(1 + 1 == 2);
     }
 }
 
